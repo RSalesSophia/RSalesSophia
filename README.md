@@ -10,4 +10,4 @@
 
 ### **Connect with me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sophia-sales-124521150)](https://www.linkedin.com/in/sophia-sales-124521150) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophiasalesr@gmail.com)](mailto:sophiasalesr@gmail.com)
-linkedin.com/in/sophia-sales-124521150
+
