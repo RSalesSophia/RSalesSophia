@@ -1,6 +1,6 @@
 
 ### Hello there!
- 👋 My name is Sophia Sales, I'm a doctor's degree student in economics from UFPB and I'm enthusiastic about **data analysis**. 
+ 👋 My name is Sophia Sales, I'm a master's degree student in economics from UFPB and I'm enthusiastic about **data analysis**. 
 
 ### Facts about me: 
 - I'm open to new opportunities 💻
